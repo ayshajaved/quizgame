@@ -37,3 +37,4 @@ def quiz(questions):
     
 
 quiz(questions)
+#the game is completed
