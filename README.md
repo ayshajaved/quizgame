@@ -1,1 +1,1 @@
-In this project, i'll be making the quiz game in Python. This is my first project in python and i am very excited. It is the initial step towards my Python programm learning and i am gonna make various projects in pyhton.
+In this project, I'll be making the quiz game in Python. This is my first project in Python and I am very excited. It is the initial step towards my Python programming learning and I am going to make various projects in Python.
